@@ -1,0 +1,16 @@
+.label {
+  color: rgba(255, 71, 163, 0.527);
+}
+
+.app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.input {
+  padding: 0.6em 1.2em;
+  /* border-color: rgb(61, 155, 155); */
+}

@@ -1,0 +1,27 @@
+.chore {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 0.5rem;
+    padding: 0 0.5rem;
+    gap: 1rem;
+    border: 1px solid rgba(255, 71, 163, 0.527);;
+    margin-bottom: 1rem;
+    width: 90%;
+}
+
+.btns{
+    display: flex;
+    gap: 1rem;
+}
+
+.compbtn {
+    background-color: black;
+    color: white;
+    margin-right: 1rem;
+}
+
+.delbtn {
+    background-color: black;
+    color: rgba(255, 71, 163, 0.527);
+}
